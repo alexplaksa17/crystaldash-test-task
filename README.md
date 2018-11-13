@@ -1,5 +1,6 @@
 # data-table
 Live demo https://cryptaldash-test-task.netlify.com/
+data for table stored in initialData.json file in src folder
 
 ## Project setup
 ```
