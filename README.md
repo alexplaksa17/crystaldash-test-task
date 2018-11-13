@@ -1,5 +1,5 @@
 # data-table
-Table component for vue.js with sorting, filtering and cells editing
+Table component for vue.js with sorting, filtering and cells editing /n
 Live demo https://cryptaldash-test-task.netlify.com/
 data for table stored in initialData.json file in src folder
 
